@@ -4,7 +4,7 @@
 <h3 align="center"> | Problem Solver | B-TECH Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Problem+Solver;Learning+Data+Structures;Always+Improving&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Mechanical+Engineer;Problem+Solver;Learning+Data+Structures;Always+Improving&center=true&width=500&height=45">
 </p>
 
 ---
@@ -59,4 +59,4 @@
 ---
 
 
-⭐️ From [ASHIK.J]((https://github.com/Ashikjinesh)
+⭐️ From [ASHIK.J](https://github.com/Ashikjinesh)
